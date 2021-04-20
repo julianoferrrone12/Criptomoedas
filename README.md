@@ -1,6 +1,3 @@
-# Criptomoedas
-Projeto desenvolvido pelo LiveCoding pela Digital Innovation One
-Todos os créditos aos professores que ministraram
 <h1 align="center">
     Requisitando dados de uma API de criptomoedas
 </h1>
@@ -23,6 +20,6 @@ Além disto é bom ter um editor de texto para manipular o código, te indico um
 
 ### Getting Started
 
-- Clone this repository: "git clone https://github.com/julianoferrrone12/InstagramProject.git" <br />
-- Move yourself to the appropriate directory: "cd InstagramProject"
+- Clone this repository: "git clone https://github.com/julianoferrrone12/Criptomoedas.git" <br />
+- Move yourself to the appropriate directory: "cd Criptomoedas"
 - Type code. for open this project on Visual Studio Code
